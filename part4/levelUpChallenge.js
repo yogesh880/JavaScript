@@ -3,7 +3,7 @@
    Store all teas before `"chai"` in a new array named `selectedTeas`.
 */
 let array=["green tea", "black tea", "chai", "oolong tea"];
-let selectedTeas=[];
+let selectedTeas=[]; 
 for ( let i=0; i<array.length; i++){
     if (array[i]==='chai'){
         break;
